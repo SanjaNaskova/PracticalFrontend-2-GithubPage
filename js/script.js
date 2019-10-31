@@ -2,8 +2,9 @@ jQuery(document).ready(function($){
 
     $(".js-slider-carousel").owlCarousel({
         loop:true,
-        autoplay: false,
+        autoplay: true,
         autoplayTimeout: 5000,
+        autoplayHoverPause: true,
         margin: 20,
         nav: false,
         dots: true,
