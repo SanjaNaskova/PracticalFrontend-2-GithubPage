@@ -4,7 +4,7 @@ Name of project: ⭐
 
 About the project:
 ------------------
-- The project was a part of the Practical Front-end class as assignment for each student to make an indepentent front-end project. 
+- The project was a part of the Practical Front-end class as assignment for each student to make an independent front-end project. 
 
 Idea:
 ------
