@@ -1,6 +1,6 @@
-Name of project: ⭐
+Name of project: 
 -----------------
-- Drop
+- Drop ⭐
 
 About the project:
 ------------------
