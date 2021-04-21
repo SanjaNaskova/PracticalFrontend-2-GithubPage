@@ -5,6 +5,7 @@ Drop ⭐
 About the project
 ------------------
 - The project was a part of the Practical Front-end class as assignment for each student to make an independent front-end project. 
+- https://sanjanaskova.github.io/PracticalFrontend-Education-website/
 
 Idea
 ------
